@@ -21,7 +21,7 @@ Windows systems
 + pycaw ([C++ Buils tools](https://visualstudio.microsoft.com/ru/visual-cpp-build-tools/) are required) (optional feature)
 + pyautogui
 + vidstream ([VS Code](https://code.visualstudio.com/) is required) (optional feature)
-+ ## Usage for server
+# Usage for server
 ```
 #clone or download zip archive
 https://github.com/KamiHateOmg/PythonRat
