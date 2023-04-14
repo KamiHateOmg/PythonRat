@@ -1,6 +1,6 @@
 # PythonRat
 Tuto on YouTube ! 
-[The tuto](https://d)
+[YT Tuto](https://d)
 
 ## Disclamer
 
