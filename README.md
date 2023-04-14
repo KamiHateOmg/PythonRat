@@ -1,6 +1,9 @@
 # PythonRat
-Tuto on YouTube ! 
+Tuto on YouTube !
+
 [YT Tuto](https://d)
+
+[MP4 Tuto](https://d)
 
 ## Disclamer
 
