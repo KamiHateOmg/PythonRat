@@ -43,6 +43,7 @@ cd PythonRat
 pip install -r client_requirements.txt
 
 python client.pyw
+```
 
 ## Features
 ![Features](https://user-images.githubusercontent.com/92334349/151528654-e2c6ffb4-33df-430b-a965-07fac7773c19.png)
