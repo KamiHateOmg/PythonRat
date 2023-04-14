@@ -23,28 +23,20 @@ Windows systems
 + vidstream ([VS Code](https://code.visualstudio.com/) is required) (optional feature)
 # Usage for server
 ```
-#clone or download zip archive
 https://github.com/KamiHateOmg/PythonRat
 
-#go to directory with files
 cd PythonRat
 
-#install essential requirements
 pip install -r server_requirements.txt
-
-#launch 
+ 
 python server.py
 ```
 # Usage for client
 ```
-#clone or download zip archive
 https://github.com/KamiHateOmg/PythonRat
 
-#go to directory with files
 cd PythonRat
 
-#install essential requirements
 pip install -r client_requirements.txt
 
-#launch 
 python client.pyw
