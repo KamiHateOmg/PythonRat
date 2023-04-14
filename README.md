@@ -5,6 +5,11 @@ Tuto on YouTube !
 
 [MP4 Tuto](https://d)
 
+#  Help
+Any questions ?
+Come to discord !
+!Kami#0001
+
 ## Disclamer
 
 THIS SOFTWARE IS INTENDED ONLY FOR EDUCATION PURPOSES! DO NOT USE IT TO INFLICT 
