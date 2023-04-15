@@ -12,6 +12,15 @@ Come to discord !
 
 !Kami#0001
 
+# Summary
+### + [Help](https://github.com/KamiHateOmg/PythonRat/edit/main/README.md#help)
+### + [Disclamer](https://github.com/KamiHateOmg/PythonRat/edit/main/README.md#disclamer)
+### + [Intended for ?](https://github.com/KamiHateOmg/PythonRat/edit/main/README.md#intended-for)
+### + [Requirements](https://github.com/KamiHateOmg/PythonRat/edit/main/README.md#requirements)
+### + [Server Usage](https://github.com/KamiHateOmg/PythonRat/edit/main/README.md#usage-for-server)
+### + [Client Usage](https://github.com/KamiHateOmg/PythonRat/edit/main/README.md#usage-for-client)
+### + [F*ck a pc ?](https://github.com/KamiHateOmg/PythonRat/edit/main/README.md#how-to-proprely-fck-a-pc)
+
 ## Disclamer
 
 THIS SOFTWARE IS INTENDED ONLY FOR EDUCATION PURPOSES! DO NOT USE IT TO INFLICT 
