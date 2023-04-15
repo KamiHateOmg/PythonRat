@@ -1,9 +1,9 @@
 # PythonRat
 Tuto on YouTube !
 
-[YT Tuto](https://d)
+[YT Tuto]([https://d](https://youtu.be/emp6ClyuJTI))
 
-[MP4 Tuto](https://d)
+[MP4 Tuto]([https://d](https://anonfiles.com/z7o8tdldz1/YTTutoRAT_mp4))
 
 #  Help
 Any questions ?
